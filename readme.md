@@ -1,6 +1,6 @@
-# Larry PLotter
+# Larry Plotter
 
 Esta saga de libros cuentan la historia de un hacker excepcional.
 
-**Christian Kashila**
+**Alberto Casero**
 ckashila66@gmail.com
